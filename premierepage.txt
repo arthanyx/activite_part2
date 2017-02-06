@@ -1,0 +1,2 @@
+Ceci est un premier fichier pour tester git et faire l'activité partie 2 du cour sur git de OpenClassRooms
+Une seconde ligne de texte n'est pas du luxe.
